@@ -12,7 +12,7 @@ RUN apk add --update git make && \
 
 
 
-FROM alpine:latest
+FROM alpine:3.18.3
 
 USER root
 
