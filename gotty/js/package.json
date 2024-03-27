@@ -8,6 +8,6 @@
     },
     "dependencies": {
         "libapps": "github:yudai/libapps#release-hterm-1.70",
-        "xterm": "^3.8.1"
+        "xterm": "^3.14.5"
     }
 }
